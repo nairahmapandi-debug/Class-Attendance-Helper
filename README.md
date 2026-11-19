@@ -7,9 +7,7 @@ The purpose of Class Attendance Helper is to help teachers record, manage, and m
 
 1. Student Information Management
 Allows teachers to add, view, and manage student information.
-
 2. Attendance Recording
 Allows teachers to record whether students are Present, Absent, or Late.
-
 3. Attendance Reports
 Generates attendance summaries and reports to help teachers monitor student attendance. 
