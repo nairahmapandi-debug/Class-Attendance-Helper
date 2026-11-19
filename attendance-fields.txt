@@ -14,3 +14,6 @@ Indicates whether the student is Present, Absent, or Late.
 
 5. Time In
 Records the time when the student arrives in class.
+
+6. Remarks
+Provides additional notes about a student's attendance, such as the reason for being late or absent.
