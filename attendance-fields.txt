@@ -1,0 +1,16 @@
+CLASS ATTENDANCE RECORD FIELDS
+
+1. Student ID
+A unique identification number assigned to each student to identify their records.
+
+2. Student Name
+The complete name of the student whose attendance is being recorded.
+
+3. Date
+The specific date when the student attendance is recorded.
+
+4. Attendance Status
+Indicates whether the student is Present, Absent, or Late.
+
+5. Time In
+Records the time when the student arrives in class.
