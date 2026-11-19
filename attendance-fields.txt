@@ -12,5 +12,4 @@ The specific date when the student attendance is recorded.
 4. Attendance Status
 Indicates whether the student is Present, Absent, or Late.
 
-5. Time In
-Records the time when the student arrives in class.
+
