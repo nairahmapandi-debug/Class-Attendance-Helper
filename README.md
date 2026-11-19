@@ -12,4 +12,4 @@ Allows teachers to add, view, and manage student information.
 Allows teachers to record whether students are Present, Absent, or Late.
 
 3. Attendance Reports
-Generates attendance summaries and reports to help teachers monitor student attendance.
+Generates attendance summaries and reports to help teachers monitor student attendance. 
